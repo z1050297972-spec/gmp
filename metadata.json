@@ -1,0 +1,5 @@
+{
+  "name": "GMP 控制系统",
+  "description": "GMP 设备的工业控制界面，具有专门的 8 按键硬件交互模型，用于管理消耗品和加油方案。",
+  "requestFramePermissions": []
+}
