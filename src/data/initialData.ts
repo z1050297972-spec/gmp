@@ -1,4 +1,4 @@
-import { ConsumableItem, RefuelingChannel } from "./types";
+import { ConsumableItem, RefuelingChannel } from "../types";
 
 export const INITIAL_CONSUMABLES: ConsumableItem[] = [
   { id: 'c1', name: '液压油 A', remaining: 85, max: 100, unit: 'L', warningLevel: 20 },
